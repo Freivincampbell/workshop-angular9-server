@@ -7,7 +7,7 @@ module.exports = {
         }
     },
     production: {
-        db: '', // url db mongoDB
+        db: process.env.MONGODB, // url db mongoDB
         app: {
             name: 'graphql'
         }
