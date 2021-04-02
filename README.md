@@ -1,1 +1,1 @@
-# work-shop-server
+# workshop-server
